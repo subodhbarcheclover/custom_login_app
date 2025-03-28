@@ -1,0 +1,6 @@
+setup.py
+custom_login_app.egg-info/PKG-INFO
+custom_login_app.egg-info/SOURCES.txt
+custom_login_app.egg-info/dependency_links.txt
+custom_login_app.egg-info/not-zip-safe
+custom_login_app.egg-info/top_level.txt
